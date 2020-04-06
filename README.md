@@ -1,24 +1,7 @@
-# README
+#Learn_Rails_react.js:
+a food recipe application with Ruby on Rails and a React frontend, using PostgreSQL as database and Bootstrap for styling.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Ruby version: 2.7.0
+* Rails version: 6.0.2.2
+* PostgreSQL: 9.5.21
+* react: 16.13.1
